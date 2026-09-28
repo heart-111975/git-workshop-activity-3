@@ -1,4 +1,4 @@
-# Git Workshop Activity #3
+# Git Workshop Activity 3
 This project is a web workshop submission containing basic HTML structure and project documentation.
 
 **Name:** Tifa Heart B. Mores
